@@ -1,2 +1,2 @@
 FROM node:alpine
-RUN yarn global add vuepress@next webpack@4.8.1
+RUN yarn global add webpack@4.25.1 vuepress@next 
